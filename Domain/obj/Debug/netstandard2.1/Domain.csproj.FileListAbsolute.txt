@@ -1,0 +1,9 @@
+/Users/david/Projects/ReactCore/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/david/Projects/ReactCore/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/david/Projects/ReactCore/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/david/Projects/ReactCore/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/david/Projects/ReactCore/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/david/Projects/ReactCore/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/david/Projects/ReactCore/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/david/Projects/ReactCore/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/david/Projects/ReactCore/Domain/obj/Debug/netstandard2.1/Domain.pdb
